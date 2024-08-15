@@ -69,3 +69,33 @@ Key Inisghts:
 
 ![Task-2](https://github.com/user-attachments/assets/afdfe9b7-c512-49b7-b12b-fe54a37444b6)
 
+
+## Task 3: Objective Analysis
+
+𝐎𝐛𝐣𝐞𝐜𝐭𝐢𝐯𝐞: Analyze the relationship between savings objectives and investment choices.
+
+My approach involved two key steps:
+
+• Data Exploration: I used correlation analysis to examine the connections between savings goals (e.g., growing capital, planning for retirement) and investment choices (like stocks, mutual funds, government bonds). This involved creating correlation matrices and scatter plots in Power BI to visualize the relationships.
+
+• Visual Representation: To make the findings more accessible, I designed custom charts. A standout was a clustered column chart that clearly shows which investment avenues are favored for each savings objective.
+
+𝐊𝐞𝐲 𝐈𝐧𝐬𝐢𝐠𝐡𝐭𝐬: 
+
+1. Investment Avenue Distribution:
+- Mutual Funds and Equity are the most popular investment avenues.
+- Fixed Deposits and Public Provident Fund are used less frequently.
+
+2. Objective-Avenue Alignment:
+- Capital Appreciation is strongly associated with Mutual Funds and Equity investments.
+- Growth objectives are pursued through a mix of all investment types, with a slight preference for Mutual Funds.
+- Income objectives are primarily met through Equity and Fixed Deposits.
+
+3. Risk-Return Trade-off:
+- Higher allocation to Mutual Funds and Equity for Capital Appreciation suggests a willingness to accept higher risk for potentially higher returns.
+- The use of Fixed Deposits and Public Provident Fund for Income and Growth objectives indicates a preference for more stable, lower-risk options for these goals.
+
+4. Objective Priorities:
+- Capital Appreciation seems to be the primary focus, followed by Growth and then Income, based on the number of investments allocated to each.
+
+![Task-3](https://github.com/user-attachments/assets/1bd9434c-d73c-4ce9-a217-7e9f57ae526c)
