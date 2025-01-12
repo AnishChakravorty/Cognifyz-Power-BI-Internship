@@ -1,6 +1,8 @@
 # Cognifyz-Power-BI-Internship
 Create a comprehensive investment dashboard incorporating all insights.
 
+Video Presentation : https://drive.google.com/file/d/1i1d3YlR5jrGrYrsYm7kK5t6BbGlm33sC/view?usp=drive_link
+
 ## Task 1: Data Exploration and Summary
 
 ### Objective: Understand and summarize key statistics in the dataset.
